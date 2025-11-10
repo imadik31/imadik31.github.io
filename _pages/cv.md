@@ -11,54 +11,45 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, King Abdullah University of Science and Technology (KAUST), Saudi Arabia, 2027 (expected)
+* M.S. in Apllied Mathematics and Computational Science, King Abdullah University of Science and Technology, Saudi Arabia, 2024
+* B.S. with honors in Mechanics, L.N. Gumilyov Eurasian National University, Kazakhstan, 2022
 
-Work experience
+Teaching Assistantship (TA)
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2025: TA for Graduate Seminar at KAUST
+  * Assisted in collecting, organizing, and grading student reports
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan-Feb 2025: Teaching Assistant (Machine Learning) at KAUST Academy 
+  * Delivered and graded machine learning coursework and laboratory assignments.
+  * Mentored students on practical aspects of machine learning, with an emphasis on Bayesian methods.
+  * Developed supplementary instructional materials to enhance learning outcomes.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Nov-Dec 2022: Teaching Assistant (Machine Learning) at KAUST Academy 
+  * Supported instructors in delivering lectures and managing laboratory sessions.
+  * Provided one-on-one assistance to students to resolve theoretical and practical challenges.
 
-Publications
+
+Work experience and Internships
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Jun 2023 - Aug 2023: Student Intern (Mechanical Engineer) at "Saudi Aramco"
+  * Performed Finite Element Analysis (FEA) for Modal & Dynamic Analysis on API610 VS6 Crude Charge Pumps.
+  * Developed detailed FEA models to evaluate natural frequencies, stress distributions, strain, and deformation.
+  * Collaborated with cross-functional teams to optimize pump design and enhance operational performance.
+
+* Dec 2021 - May 2022: Assistant of the Construction and Water Supply Engineer at "Eurasia Design" (Kazakhstan) 
+  * Assisted in designing construction projects, focusing on water supply systems.
+  * Coordinated with engineering teams to develop efficient irrigation and water distribution solutions.
+
+* Dec 2021: Student Intern at "Eurasia Design" (Kazakhstan) 
+  * Gained hands-on experience in civil engineering tasks, contributing to preliminary project designs.
+  * Supported data collection and documentation efforts for ongoing construction projects.
   
-Talks
+Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Dean’s List Award for Outstanding Academic Performance, KAUST, 2025
+
   
-Teaching
+Academic Seivices
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Reviewer for AAAI, AISTATS.

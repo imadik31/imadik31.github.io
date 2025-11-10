@@ -1,0 +1,19 @@
+- date: 2025-10-14
+  text: "Check out our new paper: [‘Universal Adaptive Environment Discovery’](https://arxiv.org/abs/2510.12547)!"
+  url: https://example.com/u-aed
+- date: 2025-10-13
+  text: "Have been recognized on the CEMSE Dean's List at KAUST"
+  url: https://example.com/multi-boolean-llms
+- date: 2025-09-28
+  text: "Was invited to serve as a reviewer for [AISTATS 2026](https://virtual.aistats.org/)"
+  url: https://example.com/multi-boolean-llms
+- date: 2025-08-06
+  text: "Was invited to serve as a reviewer for [AAAI 2026](https://aaai.org/conference/aaai/aaai-26/)"
+  url: https://example.com/multi-boolean-llms
+- date: 2025-06-19
+  location: "(Singapore)"
+  text: "Presented a poster titled 'Optimizing Data Augmentation through Bayesian Model Selection' at BayesComp 2025."
+  url: https://example.com/mollification
+- date: 2025-05-27
+  text: "Check out our new paper: [‘Optimizing Data Augmentation through Bayesian Model Selection’](https://arxiv.org/abs/2505.21813)!"
+  url: https://example.com/optima

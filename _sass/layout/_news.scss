@@ -1,0 +1,11 @@
+.latest-news { margin-top: .5rem; }
+.latest-news .news-item { margin: 1.1rem 0 1.2rem; }
+.latest-news .news-date {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #8d9295;       /* subtle grey */
+  margin-bottom: .25rem;
+}
+.latest-news p { margin: 0; }
+.latest-news a { text-decoration: underline; }
