@@ -50,6 +50,6 @@ Awards
 * Dean’s List Award for Outstanding Academic Performance, KAUST, 2025
 
   
-Academic Seivices
+Academic Services
 ======
 * Reviewer for AAAI, AISTATS.
